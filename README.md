@@ -13,4 +13,4 @@ A simple mortage calculator application that receives input and generates/calcul
 
 ## Acknowledgments
 
-* Java Fundamentals course - [Code with Mosh] (https://codewithmosh.com/)
+* Java Fundamentals course - [Code with Mosh](https://codewithmosh.com)
