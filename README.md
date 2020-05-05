@@ -5,7 +5,7 @@ A simple mortage calculator application that receives input and generates/calcul
 ## Getting Started
 ### Prerequisites
 
-*Java 8 or later version
+* Java 8 or later version
 
 ## Authors
 
